@@ -1,8 +1,5 @@
 # CSE422 – Machine Learning Project (Fall 2025)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/samiamridula1/CSE422project)
-![Repo size](https://img.shields.io/github/repo-size/samiamridula1/CSE422project)
-![License](https://img.shields.io/github/license/samiamridula1/CSE422project)
 
 ## Description
 This repository contains the final project for **CSE422 – Machine Learning**, developed in alignment with the **Fall 2025 syllabus**.  
