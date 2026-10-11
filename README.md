@@ -4,18 +4,12 @@
 ![Repo size](https://img.shields.io/github/repo-size/samiamridula1/CSE422project)
 ![License](https://img.shields.io/github/license/samiamridula1/CSE422project)
 
-## 📖 Description
+## Description
 This repository contains the final project for **CSE422 – Machine Learning**, developed in alignment with the **Fall 2025 syllabus**.  
 It includes project implementation, supporting files, and resources intended for academic help and collaboration.
 
-## 📑 Table of Contents
-- [Overview](#overview)
-- [Contents](#contents)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
-## 🔍 Overview
+## Overview
 - **Course:** CSE422 – Machine Learning  
 - **Semester:** Fall 2025  
 - **Institution:** Brac University 
@@ -23,11 +17,11 @@ It includes project implementation, supporting files, and resources intended for
 
 This project explores machine learning concepts and their applications, following the course syllabus.
 
-## 📂 Contents
+## Contents
 - **Project:** Final project implementation with supporting files  
 - **Resources:** Additional notes and references for academic learning  
 
-## 🚀 Getting Started
+## Getting Started
 1. Clone the repository:
    ```bash
    git clone https://github.com/samiamridula1/CSE422project.git
